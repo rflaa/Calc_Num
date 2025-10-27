@@ -1,6 +1,6 @@
 # Numerical Calculus Notes and Implementations
 
-This repository contains a collection of notes, code examples, and exercises developed during my **Numerical Calculus** course at university.  
+This repository contains a collection of notes, code examples, and exercises developed during my **Numerical Calculus** course at University of Pernambuco, semester of 2025.2.  
 The goal is to document key numerical methods and provide working Python implementations for study and experimentation.
 
 ---
